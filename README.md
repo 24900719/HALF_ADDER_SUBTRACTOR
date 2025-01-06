@@ -71,14 +71,20 @@ RegisterNumber: 24900719
 
 
 **RTL Schematic**
+
 ![Screenshot 2025-01-06 200927](https://github.com/user-attachments/assets/469cd22d-be0d-4197-84c3-d3b600a633aa)
+
 HALF_SUBTRACTOR
+
 ![Screenshot 2025-01-06 200945](https://github.com/user-attachments/assets/c787f684-7cb0-4b3a-88ae-c6d2ce21a30a)
 
 
 **Output/TIMING Waveform**
+
 ![Screenshot 2025-01-06 201025](https://github.com/user-attachments/assets/173eaa44-1569-4584-ae6b-4e592845ce81)
+
 HALF_SUBTRACTOR
+
 ![Screenshot 2025-01-06 201037](https://github.com/user-attachments/assets/826204fe-2070-4739-b1bf-ed1e2921c70c)
 
 **Result:**
